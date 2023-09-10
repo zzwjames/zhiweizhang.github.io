@@ -19,5 +19,5 @@ Huaisheng Zhu, Guoji Fu, Zhimeng Guo, Zhiwei Zhang, Teng Xiao, Suhang Wang. ["Fa
 
 Experiences
 ======
--[SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)  
+- [SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)  
 Computer Vision Researcher
