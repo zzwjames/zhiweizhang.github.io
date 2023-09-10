@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,4 +19,6 @@ Huaisheng Zhu, Guoji Fu, Zhimeng Guo, Zhiwei Zhang, Teng Xiao, Suhang Wang. ["Fa
 
 Experiences
 ======
-Computer Vision Researcher &nbsp;&nbsp; [SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)
+[SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)
+
+Computer Vision Researcher
