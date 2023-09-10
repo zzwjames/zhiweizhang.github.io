@@ -13,12 +13,10 @@ Hi, I am Zhiwei Zhang. A first-year Ph.D. student in the [College of Information
 
 Publications
 ======
-2023
+**2023**
 
 Huaisheng Zhu, Guoji Fu, Zhimeng Guo, Zhiwei Zhang, Teng Xiao, Suhang Wang. ["Fairness-aware Message Passing for Graph Neural Networks"](https://arxiv.org/pdf/2306.11132.pdf)
 
 Experiences
 ======
-Computer Vision Researcher
-
-[SenseTime](https://www.sensetime.com/en)              2021.11-2022.06
+Computer Vision Researcher &nbsp; [SenseTime](https://www.sensetime.com/en)         2021.11-2022.06
