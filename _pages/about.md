@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhiwei Zhang. A first-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). 
+Hi, I am Zhiwei Zhang. A first-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Graph Neural Networks and Open-world Machine Learning.
 
 
 Publications
