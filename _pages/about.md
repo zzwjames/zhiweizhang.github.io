@@ -14,15 +14,21 @@ Hi, I am Zhiwei Zhang. A first-year Ph.D. student in the [College of Information
 Publications
 ======
 **2024**
+
 ["Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks"](https://arxiv.org/pdf/2402.15680.pdf)
+
 Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S Yu, Yao Ma.
 
 **2023**
 
 ["Fairness-aware Message Passing for Graph Neural Networks"](https://arxiv.org/pdf/2306.11132.pdf)
+
 Huaisheng Zhu, Guoji Fu, Zhimeng Guo, Zhiwei Zhang, Teng Xiao, Suhang Wang.
 
 Experiences
 ======
 - [SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)  
 Computer Vision Researcher
+
+
+
