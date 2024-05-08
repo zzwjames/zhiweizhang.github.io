@@ -14,6 +14,7 @@ Hi, I am Zhiwei Zhang. A first-year Ph.D. student in the [College of Information
 Publications
 ======
 **2024**
+
 "Efficient Contrastive Learning for Fast and Accurate Inference on Graphs" (ICML 2024)
 Teng Xiao, Huaisheng Zhu, Zhiwei Zhang, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar
 
