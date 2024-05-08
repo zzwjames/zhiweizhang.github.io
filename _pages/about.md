@@ -15,7 +15,7 @@ Publications
 ======
 **2024**
 
-[ICML 2024] "Efficient Contrastive Learning for Fast and Accurate Inference on Graphs"
+[**ICML 2024**] "Efficient Contrastive Learning for Fast and Accurate Inference on Graphs"
 Teng Xiao, Huaisheng Zhu, Zhiwei Zhang, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar
 
 ["Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks"](https://arxiv.org/pdf/2402.15680.pdf)
