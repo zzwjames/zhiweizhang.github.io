@@ -18,7 +18,7 @@ Publications
 [**KDD 2024**] "Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective"
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
-I passed the qualifying exam and became a Ph.D. candidate.
+[May] I passed the qualifying exam and became a Ph.D. candidate.
 
 [**ICML 2024**] "Efficient Contrastive Learning for Fast and Accurate Inference on Graphs"
 Teng Xiao, Huaisheng Zhu, Zhiwei Zhang, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar
