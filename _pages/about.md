@@ -13,7 +13,7 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 [1/2025] Start a new position as an Applied Scientist Intern at Amazon, Palo Alto.<br>
 [1/2025] Two first-author papers accepted by ICLR 2025.<br>
 [1/2025] Passed my comprehensive exam.<br>
-[11/2024] Check out our comprehensive survey on Small Language Models (SLMs Survey).<br>  
+[11/2024] Check out our comprehensive survey on Small Language Models (SLMs Survey) [\[Paper\]](https://arxiv.org/abs/2411.03350).<br>
 [5/2024] One paper is accepted by KDD 2024.<br>
 [5/2024] I passed the qualifying exam and became a Ph.D. candidate.<br>
 [5/2024] One paper is accepted by ICML 2024.
