@@ -23,12 +23,11 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 
 <h3>Conference Papers</h3>
 
-Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective ([<b>KDD 2024</b>])<br>
-[\[Paper\]](https://arxiv.org/abs/2405.10757)
-**Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
+Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>]<br>
+**Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2405.10757) 
 
-["Efficient Contrastive Learning for Fast and Accurate Inference on Graphs"](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1)) [<b>ICML 2024</b>]<br>
-Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar
+Efficient Contrastive Learning for Fast and Accurate Inference on Graphs [<b>ICML 2024</b>]<br>
+Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar. [\[Paper\]](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1))
 
 <h3>Preprints</h3>
 
