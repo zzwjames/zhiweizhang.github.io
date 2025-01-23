@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Trustworthy Machine Learning, Vision Language Model and Graph Neural Network.
+Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Trustworthy Machine Learning, Large Language Model and Graph Neural Network.
 
 <h2>News</h2>
 [1/2025] Start a new position as an Applied Scientist Intern at Amazon, Palo Alto.<br>
@@ -19,9 +19,7 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 [5/2024] One paper is accepted by ICML 2024.
 
 
-<h2>Publications</h2>
-
-<h3>Conference Papers</h3>
+<h2>Conference Papers</h2>
 
 Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>]<br>
 **Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2410.16454)
@@ -35,13 +33,13 @@ Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD
 Efficient Contrastive Learning for Fast and Accurate Inference on Graphs [<b>ICML 2024</b>]<br>
 Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar. [\[Paper\]](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1))
 
-<h3>Selected Preprints</h3>
+<h2>Selected Preprints</h2>
 
 A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness.<br>
 Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2411.03350)
 
 Rule-based data selection for large language models.<br>
-Xiaomin Li, Mingye Gao, Zhiwei Zhang, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
 
 
 <h2>Education</h2>
