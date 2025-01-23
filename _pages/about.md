@@ -23,22 +23,26 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 
 <h3>Conference Papers</h3>
 
+Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>]<br>
+**Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2410.16454)
+
+Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025</b>]<br>
+**Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2406.09836)
+
 Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>]<br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2405.10757) 
 
 Efficient Contrastive Learning for Fast and Accurate Inference on Graphs [<b>ICML 2024</b>]<br>
 Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar. [\[Paper\]](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1))
 
-<h3>Preprints</h3>
+<h3>Selected Preprints</h3>
 
-["Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks"](https://arxiv.org/abs/2406.09836) [06/24]<br>
-**Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang
+A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness.<br>
+Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2411.03350)
 
-["Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks"](https://arxiv.org/pdf/2402.15680.pdf) [02/24]<br>
-Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, **Zhiwei Zhang**, Lu Cheng, Suhang Wang, Philip S Yu, Yao Ma.
+Rule-based data selection for large language models.<br>
+Xiaomin Li, Mingye Gao, Zhiwei Zhang, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
 
-["Fairness-aware Message Passing for Graph Neural Networks"](https://arxiv.org/pdf/2306.11132.pdf) [06/23]<br>
-Huaisheng Zhu, Guoji Fu, Zhimeng Guo, **Zhiwei Zhang**, Teng Xiao, Suhang Wang.
 
 <h2>Education</h2>
 
