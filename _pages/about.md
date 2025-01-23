@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhiwei Zhang. A second-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Trustworthy Machine Learning, Vision Language Model and Graph Neural Network.
+Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Trustworthy Machine Learning, Vision Language Model and Graph Neural Network.
 
 <h2>News</h2>
-
+[1/2025] Start a new position as an Applied Scientist Intern at Amazon, Palo Alto.<br>
+[1/2025] Two first-author papers accepted by ICLR 2025.<br>
+[1/2025] Passed my comprehensive exam.<br>
+[11/2024] Check out our comprehensive survey on Small Language Models (SLMs Survey). [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>  
 [6/2024] Check out our preprint on Graph Backdoor Defense. [\[Paper\]](https://arxiv.org/abs/2406.09836)<br>
 [5/2024] One paper is accepted by KDD 2024.<br>
 [5/2024] I passed the qualifying exam and became a Ph.D. candidate.<br>
@@ -21,7 +24,8 @@ Hi, I am Zhiwei Zhang. A second-year Ph.D. student in the [College of Informatio
 
 <h3>Conference Papers</h3>
 
-["Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective"](https://arxiv.org/abs/2405.10757) [<b>KDD 2024</b>]<br>
+Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective ([<b>KDD 2024</b>]<br>)
+[\[Paper\]](https://arxiv.org/abs/2405.10757)
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
 ["Efficient Contrastive Learning for Fast and Accurate Inference on Graphs"](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1)) [<b>ICML 2024</b>]<br>
