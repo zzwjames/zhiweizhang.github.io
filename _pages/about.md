@@ -10,6 +10,7 @@ redirect_from:
 Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Large Language Model, LLM Alignment, Trustworthy Machine Learning and Graph Neural Network.
 
 <h2>News</h2>
+[05/2025] One paper accepted by ICML 2025.<br>
 [01/2025] Start a new position as an Applied Scientist Intern at Amazon, Palo Alto.<br>
 [01/2025] Two first-author papers accepted by ICLR 2025, including one **Oral** selection.<br>
 [01/2025] Passed my comprehensive exam.<br>
@@ -20,6 +21,9 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 
 
 <h2>Conference Papers</h2>
+
+Rule-based data selection for large language models [<b>ICML 2025</b>]<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
 
 Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>]<br>
 **Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2410.16454)
@@ -38,8 +42,6 @@ Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suha
 A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness.<br>
 Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2411.03350)
 
-Rule-based data selection for large language models.<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
 
 Data-adaptive Safety Rules for Training Reward Models.<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. [\[Paper\]](https://arxiv.org/abs/2501.15453)
