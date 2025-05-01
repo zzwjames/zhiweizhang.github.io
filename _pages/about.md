@@ -22,8 +22,8 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 
 <h2>Conference Papers</h2>
 
-Rule-based data selection for large language models [<b>ICML 2025</b>]<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
+Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>]<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. [\[Paper\]](https://arxiv.org/abs/2501.15453)
 
 Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>]<br>
 **Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2410.16454)
@@ -42,9 +42,8 @@ Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suha
 A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness.<br>
 Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2411.03350)
 
-
-Data-adaptive Safety Rules for Training Reward Models.<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. [\[Paper\]](https://arxiv.org/abs/2501.15453)
+Rule-based data selection for large language models.<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
 
 Trojan Prompt Attacks on Graph Neural Networks.<br>
 Minhua Lin, **Zhiwei Zhang**, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [\[paper\]](https://arxiv.org/pdf/2410.13974)
