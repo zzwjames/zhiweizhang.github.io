@@ -65,3 +65,4 @@ Computer Vision Research Intern @ [SenseTime](https://www.sensetime.com/en)     
 Reviewer or subreviewer for ICLR2025, KDD2025, KDD 2024, CIKM2024, RecSys 2024, SIGIR 2024, NeuroComputing
 
 <a href="https://clustrmaps.com/site/1c5u6"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=lpx1uSzCjZuwuQMW8pBz2e4PkE0rwRM_cas2gJwwO8o&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lpx1uSzCjZuwuQMW8pBz2e4PkE0rwRM_cas2gJwwO8o&cl=ffffff&w=a"></script>
