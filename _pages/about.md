@@ -10,9 +10,10 @@ redirect_from:
 Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Large Language Model, LLM Alignment, Trustworthy Machine Learning and Graph Neural Network.
 
 <h2>News</h2>
+[05/2025] One paper accepted by KDD 2025.<br>
 [05/2025] One paper accepted by ICML 2025.<br>
 [01/2025] Start a new position as an Applied Scientist Intern at Amazon, Palo Alto.<br>
-[01/2025] Two first-author papers accepted by ICLR 2025, including one **Oral** selection.<br>
+[01/2025] Two papers accepted by ICLR 2025, including one **Oral** selection.<br>
 [01/2025] Passed my comprehensive exam.<br>
 [11/2024] Check out our comprehensive survey on Small Language Models (SLMs Survey) [\[Paper\]](https://arxiv.org/abs/2411.03350).<br>
 [05/2024] One paper accepted by KDD 2024.<br>
@@ -31,6 +32,9 @@ Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>]<br>
 Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: red;">Oral</span></b>]<br>
 **Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2406.09836)
 
+Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>]<br>
+Minhua Lin, **Zhiwei Zhang**, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [\[paper\]](https://arxiv.org/pdf/2410.13974)
+
 Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>]<br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2405.10757) 
 
@@ -44,9 +48,6 @@ Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wan
 
 Rule-based data selection for large language models.<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
-
-Trojan Prompt Attacks on Graph Neural Networks.<br>
-Minhua Lin, **Zhiwei Zhang**, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [\[paper\]](https://arxiv.org/pdf/2410.13974)
 
 <h2>Education</h2>
 
