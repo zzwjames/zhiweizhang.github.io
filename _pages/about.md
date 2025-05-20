@@ -33,7 +33,7 @@ Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: re
 **Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2406.09836)
 
 Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>]<br>
-Minhua Lin, **Zhiwei Zhang**, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [\[paper\]](https://arxiv.org/pdf/2410.13974)
+Minhua Lin*, **Zhiwei Zhang***, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [[* indicates equal contribution]] [\[paper\]](https://arxiv.org/pdf/2410.13974)
 
 Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>]<br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2405.10757) 
