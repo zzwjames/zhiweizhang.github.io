@@ -23,31 +23,34 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 
 <h2>Conference Papers</h2>
 
-Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>]<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. [\[Paper\]](https://arxiv.org/abs/2501.15453)
+Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>] [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. 
 
-Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>]<br>
-**Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)
+Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>] [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)<br>
+**Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang.
 
-Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: red;">Oral</span></b>]<br>
-**Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2406.09836)
+Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: red;">Oral</span></b>] [\[Paper\]](https://arxiv.org/pdf/2406.09836)<br>
+**Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang.
 
-Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>]<br>
-Minhua Lin*, **Zhiwei Zhang***, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [* indicates equal contribution] [\[paper\]](https://arxiv.org/pdf/2410.13974)
+Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>] [\[paper\]](https://arxiv.org/pdf/2410.13974)<br>
+Minhua Lin*, **Zhiwei Zhang***, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [* indicates equal contribution]
 
-Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>]<br>
-**Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2405.10757) 
+Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>] [\[Paper\]](https://arxiv.org/abs/2405.10757) <br>
+**Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
-Efficient Contrastive Learning for Fast and Accurate Inference on Graphs [<b>ICML 2024</b>]<br>
-Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar. [\[Paper\]](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1))
+Efficient Contrastive Learning for Fast and Accurate Inference on Graphs [<b>ICML 2024</b>] [\[Paper\]](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1))<br>
+Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar.
 
 <h2>Selected Preprints</h2>
 
-A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness.<br>
-Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. [\[Paper\]](https://arxiv.org/abs/2411.03350)
+When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)
+Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
 
-Rule-based data selection for large language models.<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https://arxiv.org/pdf/2410.04715)
+A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness. [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
+Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. 
+
+Rule-based data selection for large language models. [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. 
 
 <h2>Education</h2>
 
