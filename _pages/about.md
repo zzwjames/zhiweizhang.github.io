@@ -59,6 +59,8 @@ Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. [\[Paper\]](https:
 
 <h2>Experiences</h2>
 
+Applied Scientist Intern @ [Amazon](https://amazonsearchqu.github.io/) (2025.01-2025.08)
+
 Computer Vision Research Intern @ [SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)
 
 <h2>Services</h2>
