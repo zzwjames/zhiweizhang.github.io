@@ -43,7 +43,7 @@ Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suha
 
 <h2>Selected Preprints</h2>
 
-When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)
+When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
 Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
 
 A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness. [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
