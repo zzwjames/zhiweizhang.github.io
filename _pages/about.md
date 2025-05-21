@@ -27,7 +27,7 @@ Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>]<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. [\[Paper\]](https://arxiv.org/abs/2501.15453)
 
 Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>]<br>
-**Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2410.16454)
+**Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)
 
 Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: red;">Oral</span></b>]<br>
 **Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. [\[Paper\]](https://arxiv.org/pdf/2406.09836)
