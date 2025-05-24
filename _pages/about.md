@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Large Language Model, LLM Alignment, Trustworthy Machine Learning and Graph Neural Network.
+Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Large Language Model, LLM Alignment, Trustworthy Machine Learning and Graph Neural Network.
 
 <h2>News</h2>
 [05/2025] One paper accepted by KDD 2025.<br>
@@ -62,9 +62,9 @@ Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu.
 
 <h2>Experiences</h2>
 
-Applied Scientist Intern @ [Amazon](https://amazonsearchqu.github.io/) (2025.01-2025.08)
+Applied Scientist Intern @ [Amazon](https://amazonsearchqu.github.io/) (2025.01-2025.08), Palo Alto, CA
 
-Computer Vision Research Intern @ [SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)
+Computer Vision Research Intern @ [SenseTime](https://www.sensetime.com/en) (2021.11-2022.06), Beijing, China
 
 <h2>Services</h2>
 
