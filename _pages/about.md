@@ -35,6 +35,9 @@ Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: re
 Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>] [\[paper\]](https://arxiv.org/pdf/2410.13974)<br>
 Minhua Lin*, **Zhiwei Zhang***, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [* indicates equal contribution]
 
+Rule-based data selection for large language models. [<b>ICLR 2025 Workshop Data Problems<b>] [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. 
+
 Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>] [\[Paper\]](https://arxiv.org/abs/2405.10757) <br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
@@ -49,8 +52,6 @@ Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang,
 A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness. [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
 Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. 
 
-Rule-based data selection for large language models. [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. 
 
 <h2>Education</h2>
 
