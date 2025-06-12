@@ -73,4 +73,3 @@ Reviewer or subreviewer for ICLR2025, KDD2025, KDD 2024, CIKM2024, RecSys 2024, 
 
 <a href="https://clustrmaps.com/site/1c5u6"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=lpx1uSzCjZuwuQMW8pBz2e4PkE0rwRM_cas2gJwwO8o&cl=ffffff" /></a>
 
-<img src="../a.jpg" alt="My Local Image" style="max-width: 100%; height: auto; margin-top: 20px;">
