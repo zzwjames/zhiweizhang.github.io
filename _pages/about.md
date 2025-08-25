@@ -10,6 +10,8 @@ redirect_from:
 Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Large Language Model, LLM Alignment, Trustworthy Machine Learning and Graph Neural Network.
 
 <h2>News</h2>
+[08/2025] Our survey on small language model accepted by ACM Transactions on Intelligent Systems and Technology.<br>
+[08/2025] One paper accepted by EMNLP 2025, Findings.<br>
 [05/2025] One paper accepted by KDD 2025.<br>
 [05/2025] One paper accepted by ICML 2025.<br>
 [01/2025] Start a new position as an Applied Scientist Intern at Amazon, Palo Alto.<br>
