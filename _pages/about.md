@@ -10,6 +10,9 @@ redirect_from:
 Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Large Language Model, LLM Alignment, Trustworthy Machine Learning and Graph Neural Network.
 
 <h2>News</h2>
+[01/2026] Five papers accepte by ICLR 2026.<br>
+[11/2025] One paper accepted by AAAI 2026.<br>
+[09/2025] Two papers accepted by NeurIPS 2025 (one Spotlight).<br>
 [08/2025] Our survey on small language model accepted by ACM Transactions on Intelligent Systems and Technology.<br>
 [08/2025] One paper accepted by EMNLP 2025, Findings.<br>
 [05/2025] One paper accepted by KDD 2025.<br>
@@ -23,10 +26,13 @@ Hi, I am Zhiwei Zhang. A third-year Ph.D. student in the [College of Information
 [05/2024] One paper accepted by ICML 2024.
 
 
-<h2>Conference Papers</h2>
+<h2>Selected Conference Papers</h2>
 
-Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>] [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. 
+Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation [<b>ICLR 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2511.02303)<br>
+**Zhiwei Zhang**, Xiaomin Li, Yudi Lin, Hui Liu, Ramraj Chandradevan, Linlin Wu, Minhua Lin, Fali Wang, Xianfeng Tang, Qi He, Suhang Wang
+
+Bradley-Terry and Multi-Objective Reward Modeling Are Complementary [<b>ICLR 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2507.07375?)<br>
+**Zhiwei Zhang**, Hui Liu, Xiaomin Li, Zhenwei Dai, Jingying Zeng, Fali Wang, Minhua Lin, Ramraj Chandradevan, Linlin Wu, Zhen Li, Chen Luo, Zongyu Wu, Xianfeng Tang, Qi He, Suhang Wang
 
 Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>] [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)<br>
 **Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang.
@@ -34,8 +40,11 @@ Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>] [\[Pa
 Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: red;">Oral</span></b>] [\[Paper\]](https://arxiv.org/pdf/2406.09836)<br>
 **Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang.
 
-Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>] [\[paper\]](https://arxiv.org/pdf/2410.13974)<br>
-Minhua Lin*, **Zhiwei Zhang***, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [* indicates equal contribution]
+When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [<b>NeurIPS 2025 (Spotlight)</b>] [\[Paper\]](https://arxiv.org/abs/2505.11423) [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
+Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
+
+Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>] [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. 
 
 Rule-based data selection for large language models. [<b>ICLR 2025 Workshop on Data Problems</b>] [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. 
@@ -43,15 +52,15 @@ Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu.
 Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>] [\[Paper\]](https://arxiv.org/abs/2405.10757) <br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
-Efficient Contrastive Learning for Fast and Accurate Inference on Graphs [<b>ICML 2024</b>] [\[Paper\]](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1))<br>
-Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar.
+Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>] [\[paper\]](https://arxiv.org/pdf/2410.13974)<br>
+Minhua Lin*, **Zhiwei Zhang***, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [* indicates equal contribution]
 
-<h2>Selected Preprints</h2>
+AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks [<b>NeurIPS 2025</b>] [\[Paper\]](https://arxiv.org/pdf/2508.00890)<br>
+Fali Wang, Hui Liu, Zhenwei Dai, Jingying Zeng, **Zhiwei Zhang**, Zongyu Wu, Chen Luo, Zhen Li, Xianfeng Tang, Qi He, Suhang Wang
 
-When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[Paper\]](https://arxiv.org/abs/2505.11423) [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
-Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
+<h2>Journal Papers</h2>
 
-A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness. [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
+A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness. [<b>ACM Transactions on Intelligent Systems and Technology</b>] [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
 Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. 
 
 
@@ -65,7 +74,7 @@ Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wan
 
 <h2>Experiences</h2>
 
-Applied Scientist Intern @ [Amazon](https://amazonsearchqu.github.io/) (2025.01-2025.08), Palo Alto, CA
+Applied Scientist Intern @ [Amazon](https://amazonsearchqu.github.io/) (2025.01-2025.12), Palo Alto, CA
 
 Computer Vision Research Intern @ [SenseTime](https://www.sensetime.com/en) (2021.11-2022.06), Beijing, China
 
