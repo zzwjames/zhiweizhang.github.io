@@ -46,14 +46,17 @@ Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang,
 Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>] [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. 
 
-Rule-based data selection for large language models. [<b>ICLR 2025 Workshop on Data Problems</b>] [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
+Multiplayer Nash Preference Optimization [<b>ICLR 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2509.23102?)<br>
+Fang Wu, Xu Huang, Weihao Xuan, **Zhiwei Zhang**, Yijia Xiao, Guancheng Wan, Xiaomin Li, Bing Hu, Peng Xia, Jure Leskovec, Yejin Choi
+
+Rule-based data selection for large language models. [<b>AAAI 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. 
 
 Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>] [\[Paper\]](https://arxiv.org/abs/2405.10757) <br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
 Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>] [\[paper\]](https://arxiv.org/pdf/2410.13974)<br>
-Minhua Lin*, **Zhiwei Zhang***, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang. [* indicates equal contribution]
+Minhua Lin, **Zhiwei Zhang** (equal contribution), Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang.
 
 AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks [<b>NeurIPS 2025</b>] [\[Paper\]](https://arxiv.org/pdf/2508.00890)<br>
 Fali Wang, Hui Liu, Zhenwei Dai, Jingying Zeng, **Zhiwei Zhang**, Zongyu Wu, Chen Luo, Zhen Li, Xianfeng Tang, Qi He, Suhang Wang
