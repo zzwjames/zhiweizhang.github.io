@@ -11,6 +11,7 @@ Hi, I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information
 
 <h2>News</h2>
 [02/2026] I will join Meta Super Intelligence Lab as a Research Scientist Intern this summer.<br>
+[02/2026] One paper accepted by CVPR 2026.<br>
 [02/2026] I joined Snowflake as a Research Intern.<br>
 [01/2026] Five papers accepted by ICLR 2026.<br>
 [01/2026] One paper accepted by EACL 2026.<br>
