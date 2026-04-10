@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Reinforcement learning for Large Language Model, LLM Alignment and Trustworthy Machine Learning.
+Hi, I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Reinforcement learning for Large Language Model, LLM Alignment and Trustworthy Machine Learning.
 
 <h2>News</h2>
 [02/2026] I will join Meta Superintelligence Labs as a Research Scientist Intern this summer.<br>
