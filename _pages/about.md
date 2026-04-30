@@ -10,6 +10,7 @@ redirect_from:
 Hi, I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Reinforcement learning for Large Language Model, LLM Alignment and Trustworthy Machine Learning.
 
 <h2>News</h2>
+[04/2026] One paper accepted by ICML 2026.<br>
 [02/2026] I will join Meta Superintelligence Labs as a Research Scientist Intern this summer.<br>
 [02/2026] One paper accepted by CVPR 2026.<br>
 [02/2026] I joined Snowflake as a Research Intern.<br>
@@ -37,6 +38,9 @@ Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Delibe
 
 Bradley-Terry and Multi-Objective Reward Modeling Are Complementary [<b>ICLR 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2507.07375?)<br>
 **Zhiwei Zhang**, Hui Liu, Xiaomin Li, Zhenwei Dai, Jingying Zeng, Fali Wang, Minhua Lin, Ramraj Chandradevan, Linlin Wu, Zhen Li, Chen Luo, Zongyu Wu, Xianfeng Tang, Qi He, Suhang Wang
+
+Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning [<b>ICML 2026</b>]<br>
+**Zhiwei Zhang**, Yudi Lin, Linlin Wu, Fali Wang, Yi Xin, Xiaomin Li, Minhua Lin, Xianfeng Tang, Qi He, Suhang Wang
 
 Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>] [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)<br>
 **Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang.
