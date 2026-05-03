@@ -48,20 +48,20 @@ Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>] [\[Pa
 Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: red;">Oral</span></b>] [\[Paper\]](https://arxiv.org/pdf/2406.09836)<br>
 **Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang.
 
+Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>] [\[Paper\]](https://arxiv.org/abs/2405.10757) <br>
+**Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
+
 When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [<b>NeurIPS 2025 (Spotlight)</b>] [\[Paper\]](https://arxiv.org/abs/2505.11423) [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
 Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
+
+Multiplayer Nash Preference Optimization [<b>ICLR 2026, <span style="color: red;">Oral</span></b>] [\[Paper\]](https://arxiv.org/pdf/2509.23102?)<br>
+Fang Wu, Xu Huang, Weihao Xuan, **Zhiwei Zhang**, Yijia Xiao, Guancheng Wan, Xiaomin Li, Bing Hu, Peng Xia, Jure Leskovec, Yejin Choi
 
 Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>] [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. 
 
-Multiplayer Nash Preference Optimization [<b>ICLR 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2509.23102?)<br>
-Fang Wu, Xu Huang, Weihao Xuan, **Zhiwei Zhang**, Yijia Xiao, Guancheng Wan, Xiaomin Li, Bing Hu, Peng Xia, Jure Leskovec, Yejin Choi
-
 Rule-based data selection for large language models. [<b>AAAI 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
 Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. 
-
-Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>] [\[Paper\]](https://arxiv.org/abs/2405.10757) <br>
-**Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
 Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>] [\[paper\]](https://arxiv.org/pdf/2410.13974)<br>
 Minhua Lin, **Zhiwei Zhang** (equal contribution), Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang.
