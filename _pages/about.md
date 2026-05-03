@@ -33,45 +33,45 @@ Hi, I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information
 
 <h2>Selected Conference Papers</h2>
 
-Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation [<b>ICLR 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2511.02303)<br>
+[<b>ICLR 2026</b>] Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation [\[Paper\]](https://arxiv.org/pdf/2511.02303)<br>
 **Zhiwei Zhang**, Xiaomin Li, Yudi Lin, Hui Liu, Ramraj Chandradevan, Linlin Wu, Minhua Lin, Fali Wang, Xianfeng Tang, Qi He, Suhang Wang
 
-Bradley-Terry and Multi-Objective Reward Modeling Are Complementary [<b>ICLR 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2507.07375?)<br>
+[<b>ICLR 2026</b>] Bradley-Terry and Multi-Objective Reward Modeling Are Complementary [\[Paper\]](https://arxiv.org/pdf/2507.07375?)<br>
 **Zhiwei Zhang**, Hui Liu, Xiaomin Li, Zhenwei Dai, Jingying Zeng, Fali Wang, Minhua Lin, Ramraj Chandradevan, Linlin Wu, Zhen Li, Chen Luo, Zongyu Wu, Xianfeng Tang, Qi He, Suhang Wang
 
-Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning [<b>ICML 2026</b>]<br>
+[<b>ICML 2026</b>] Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning<br>
 **Zhiwei Zhang**, Yudi Lin, Linlin Wu, Fali Wang, Yi Xin, Xiaomin Li, Minhua Lin, Xianfeng Tang, Qi He, Suhang Wang
 
-Catastrophic Failure of LLM Unlearning via Quantization [<b>ICLR 2025</b>] [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)<br>
+[<b>ICLR 2025</b>] Catastrophic Failure of LLM Unlearning via Quantization [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)<br>
 **Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang.
 
-Robustness Inspired Graph Backdoor Defense [<b>ICLR 2025, <span style="color: red;">Oral</span></b>] [\[Paper\]](https://arxiv.org/pdf/2406.09836)<br>
+[<b>ICLR 2025, <span style="color: red;">Oral</span></b>] Robustness Inspired Graph Backdoor Defense [\[Paper\]](https://arxiv.org/pdf/2406.09836)<br>
 **Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang.
 
-Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [<b>KDD 2024</b>] [\[Paper\]](https://arxiv.org/abs/2405.10757) <br>
+[<b>KDD 2024</b>] Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [\[Paper\]](https://arxiv.org/abs/2405.10757)<br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
-When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [<b>NeurIPS 2025 (Spotlight)</b>] [\[Paper\]](https://arxiv.org/abs/2505.11423) [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
+[<b>NeurIPS 2025, <span style="color: red;">Spotlight</span></b>] When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[Paper\]](https://arxiv.org/abs/2505.11423) [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
 Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
 
-Multiplayer Nash Preference Optimization [<b>ICLR 2026, <span style="color: red;">Oral</span></b>] [\[Paper\]](https://arxiv.org/pdf/2509.23102?)<br>
+[<b>ICLR 2026, <span style="color: red;">Oral</span></b>] Multiplayer Nash Preference Optimization [\[Paper\]](https://arxiv.org/pdf/2509.23102?)<br>
 Fang Wu, Xu Huang, Weihao Xuan, **Zhiwei Zhang**, Yijia Xiao, Guancheng Wan, Xiaomin Li, Bing Hu, Peng Xia, Jure Leskovec, Yejin Choi
 
-Data-adaptive Safety Rules for Training Reward Models [<b>ICML 2025</b>] [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li. 
+[<b>ICML 2025</b>] Data-adaptive Safety Rules for Training Reward Models [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li.
 
-Rule-based data selection for large language models. [<b>AAAI 2026</b>] [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu. 
+[<b>AAAI 2026</b>] Rule-based data selection for large language models [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
+Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu.
 
-Trojan Prompt Attacks on Graph Neural Networks [<b>KDD 2025</b>] [\[paper\]](https://arxiv.org/pdf/2410.13974)<br>
+[<b>KDD 2025</b>] Trojan Prompt Attacks on Graph Neural Networks [\[Paper\]](https://arxiv.org/pdf/2410.13974)<br>
 Minhua Lin, **Zhiwei Zhang** (equal contribution), Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang.
 
-AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks [<b>NeurIPS 2025</b>] [\[Paper\]](https://arxiv.org/pdf/2508.00890)<br>
+[<b>NeurIPS 2025</b>] AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks [\[Paper\]](https://arxiv.org/pdf/2508.00890)<br>
 Fali Wang, Hui Liu, Zhenwei Dai, Jingying Zeng, **Zhiwei Zhang**, Zongyu Wu, Chen Luo, Zhen Li, Xianfeng Tang, Qi He, Suhang Wang
 
 <h2>Journal Papers</h2>
 
-A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness. [<b>ACM Transactions on Intelligent Systems and Technology</b>] [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
+[<b>ACM Transactions on Intelligent Systems and Technology</b>] A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
 Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. 
 
 
