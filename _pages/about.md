@@ -22,7 +22,6 @@ Please feel free to contact me at <a href="mailto:zbz5349@psu.edu">zbz5349@psu.e
 [01/2026] Five papers accepted by ICLR 2026, including one **Oral** selection.<br>
 [11/2025] One paper accepted by AAAI 2026.<br>
 [09/2025] Two papers accepted by NeurIPS 2025 (one Spotlight).<br>
-[08/2025] Our survey on small language model accepted by ACM Transactions on Intelligent Systems and Technology.<br>
 [05/2025] One paper accepted by ICML 2025.<br>
 [01/2025] Joined Amazon as an Applied Scientist Intern.<br>
 [01/2025] Two papers accepted by ICLR 2025, including one **Oral** selection.<br>
