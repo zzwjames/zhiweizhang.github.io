@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Reinforcement Learning for Large Language Model, Agentic RL, LLM Alignment and Trustworthy Machine Learning.
+I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Reinforcement Learning for Large Language Model, Agentic RL, LLM Alignment and Trustworthy Machine Learning.
 
 <p style="color: red; font-weight: 600;">
 I am on the job market and actively seeking full-time Research Scientist positions in industry. 
