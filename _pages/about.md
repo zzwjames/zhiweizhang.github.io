@@ -27,7 +27,6 @@ Please feel free to contact me at <a href="mailto:zbz5349@psu.edu">zbz5349@psu.e
 [01/2025] Two papers accepted by ICLR 2025, including one **Oral** selection.<br>
 [01/2025] Passed my comprehensive exam.<br>
 [05/2024] One paper accepted by KDD 2024.<br>
-[05/2024] I passed the qualifying exam and became a Ph.D. candidate.<br>
 [05/2024] One paper accepted by ICML 2024.
 
 
