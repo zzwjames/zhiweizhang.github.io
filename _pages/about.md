@@ -88,5 +88,7 @@ Computer Vision Research Intern @ [SenseTime](https://www.sensetime.com/en) (202
 **M.S.** in Computer Science (Aug. 2022 - Dec. 2022) Georgia Institute of Technology. (Dropped)<br>
 **B.E.** in Computer Science (Sep. 2018 - Jun. 2022) Dalian University of Technology, Dalian, China
 
-<a href="https://clustrmaps.com/site/1c5u6"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=lpx1uSzCjZuwuQMW8pBz2e4PkE0rwRM_cas2gJwwO8o&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps"
+  src="https://cdn.clustrmaps.com/map_v2.js?d=lpx1uSzCjZuwuQMW8pBz2e4PkE0rwRM_cas2gJwwO8o&cl=ffffff&w=a">
+</script>
 
