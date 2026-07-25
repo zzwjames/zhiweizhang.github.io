@@ -32,6 +32,9 @@ Please feel free to contact me at <a href="mailto:zbz5349@psu.edu">zbz5349@psu.e
 
 <h2>Selected Publications</h2>
 
+[<b>COLM 2026, Agent Behavior</b>] SAPO: Skill-Augmented Policy Optimization [\[Paper\]](https://arxiv.org/pdf/2606.08755)<br>
+**Zhiwei Zhang**, Yudi Lin, Nikki Lijing Kuang, Linlin Wu, Xiaomin Li, Songtao Liu, Fenglong Ma
+
 [<b>ICLR 2026</b>] Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation [\[Paper\]](https://arxiv.org/pdf/2511.02303)<br>
 **Zhiwei Zhang**, Xiaomin Li, Yudi Lin, Hui Liu, Ramraj Chandradevan, Linlin Wu, Minhua Lin, Fali Wang, Xianfeng Tang, Qi He, Suhang Wang
 
