@@ -39,7 +39,7 @@ I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sci
 [<b>ICML 2026</b>] Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning<br>
 **Zhiwei Zhang**, Yudi Lin, Linlin Wu, Fali Wang, Yi Xin, Xiaomin Li, Minhua Lin, Xianfeng Tang, Qi He, Suhang Wang
 
-[<b>ICLR 2025</b>] Catastrophic Failure of LLM Unlearning via Quantization [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[WeChat News\]](https://mp.weixin.qq.com/s/TXSm3ikvkt8qhDuzJPQQfA) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)<br>
+[<b>ICLR 2025</b>] Catastrophic Failure of LLM Unlearning via Quantization [\[Paper\]](https://arxiv.org/pdf/2410.16454) [\[Hacker News\]](https://news.ycombinator.com/item?id=42037982)<br>
 **Zhiwei Zhang**, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang.
 
 [<b>ICLR 2025, <span style="color: red;">Oral</span></b>] Robustness Inspired Graph Backdoor Defense [\[Paper\]](https://arxiv.org/pdf/2406.09836)<br>
@@ -48,7 +48,7 @@ I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sci
 [<b>KDD 2024</b>] Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective [\[Paper\]](https://arxiv.org/abs/2405.10757)<br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
-[<b>NeurIPS 2025, <span style="color: red;">Spotlight</span></b>] When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[Paper\]](https://arxiv.org/abs/2505.11423) [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
+[<b>NeurIPS 2025, <span style="color: red;">Spotlight</span></b>] When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[Paper\]](https://arxiv.org/abs/2505.11423) <br>
 Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
 
 <h2>Experiences</h2>
