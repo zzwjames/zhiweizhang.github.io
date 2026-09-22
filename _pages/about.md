@@ -9,11 +9,6 @@ redirect_from:
 
 I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My research interests are Reinforcement Learning for Large Language Model, Agentic RL, LLM Alignment and Trustworthy Machine Learning.
 
-<p style="color: red; font-weight: 600;">
-I am on the job market and actively seeking full-time Research Scientist positions in industry. 
-Please feel free to contact me at <a href="mailto:zbz5349@psu.edu">zbz5349@psu.edu</a> if my background may be a good fit for your team.
-</p>
-
 <h2>News</h2>
 [05/2026] Joined Meta Superintelligence Labs as a Research Scientist Intern.<br>
 [04/2026] One paper accepted by ICML 2026.<br>
