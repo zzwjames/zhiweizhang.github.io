@@ -51,24 +51,6 @@ I am Zhiwei Zhang. A forth-year Ph.D. student in the [College of Information Sci
 [<b>NeurIPS 2025, <span style="color: red;">Spotlight</span></b>] When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs [\[Paper\]](https://arxiv.org/abs/2505.11423) [\[WeChat News\]](https://mp.weixin.qq.com/s/hm4fYpp1cIhZeBD1kofd5w)<br>
 Xiaomin Li, Zhou Yu, **Zhiwei Zhang**, Xupeng Chen, Ziji Zhang, Yingying Zhuang, Narayanan Sadagopan, Anurag Beniwal
 
-[<b>ICLR 2026, <span style="color: red;">Oral</span></b>] Multiplayer Nash Preference Optimization [\[Paper\]](https://arxiv.org/pdf/2509.23102?)<br>
-Fang Wu, Xu Huang, Weihao Xuan, **Zhiwei Zhang**, Yijia Xiao, Guancheng Wan, Xiaomin Li, Bing Hu, Peng Xia, Jure Leskovec, Yejin Choi
-
-[<b>ICML 2025</b>] Data-adaptive Safety Rules for Training Reward Models [\[Paper\]](https://arxiv.org/abs/2501.15453)<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Jingxuan Fan, Weiyu Li.
-
-[<b>AAAI 2026</b>] Rule-based data selection for large language models [\[Paper\]](https://arxiv.org/pdf/2410.04715)<br>
-Xiaomin Li, Mingye Gao, **Zhiwei Zhang**, Chang Yue, Hong Hu.
-
-[<b>KDD 2025</b>] Trojan Prompt Attacks on Graph Neural Networks [\[Paper\]](https://arxiv.org/pdf/2410.13974)<br>
-Minhua Lin, **Zhiwei Zhang** (equal contribution), Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang.
-
-[<b>NeurIPS 2025</b>] AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks [\[Paper\]](https://arxiv.org/pdf/2508.00890)<br>
-Fali Wang, Hui Liu, Zhenwei Dai, Jingying Zeng, **Zhiwei Zhang**, Zongyu Wu, Chen Luo, Zhen Li, Xianfeng Tang, Qi He, Suhang Wang
-
-[<b>ACM Transactions on Intelligent Systems and Technology</b>] A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness [\[Paper\]](https://arxiv.org/abs/2411.03350)<br>
-Fali Wang, **Zhiwei Zhang**, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, Junjie Xu, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang. 
-
 <h2>Experiences</h2>
 
 Research Scientist Intern @ Meta Superintelligence Labs (2026.05-), Menlo Park, CA
